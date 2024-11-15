@@ -1,6 +1,3 @@
-
-Here’s a professional and engaging GitHub profile intro based on your skills and background:
-
 Hi there! 👋 I'm Adarsh Pandey
 🚀 Front-End Developer | Graphic Designer | Data Entry Expert
 
